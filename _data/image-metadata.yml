@@ -60,8 +60,8 @@ images:
     height: 630
     width: 1200
   - path: 'required/logo-mark_512.png.webp'
-    height: 512
-    width: 512
+    height: 472
+    width: 457
   - path: 'required/demo_bw.jpg'
     height: 630
     width: 1200
@@ -72,8 +72,8 @@ images:
     height: 630
     width: 1200
   - path: 'required/s.webp'
-    height: 446
-    width: 11330
+    height: 
+    width: 
   - path: 'required/tile-wide.png'
     height: 270
     width: 558
@@ -84,23 +84,23 @@ images:
     height: 1218
     width: 1895
   - path: 'required/logo-mark_512.png'
-    height: 512
-    width: 512
+    height: 472
+    width: 457
   - path: 'required/meta-image--default.jpg.webp'
     height: 630
     width: 1200
   - path: 'required/logo.png.webp'
-    height: 73
-    width: 73
+    height: 74
+    width: 72
   - path: 'required/meta-image--default.jpg'
     height: 630
     width: 1200
   - path: 'required/apple-touch-icon.png'
-    height: 512
-    width: 512
+    height: 472
+    width: 457
   - path: 'required/apple-touch-icon.png.webp'
-    height: 512
-    width: 512
+    height: 472
+    width: 457
   - path: 'required/readme-screenshot.jpg'
     height: 1218
     width: 1895
@@ -108,8 +108,8 @@ images:
     height: 1
     width: 1
   - path: 'required/logo.png'
-    height: 73
-    width: 73
+    height: 74
+    width: 72
   - path: 'undraw_welcome_3gvl.png.webp'
     height: 891
     width: 1108
