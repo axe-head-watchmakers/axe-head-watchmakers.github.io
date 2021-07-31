@@ -44,8 +44,8 @@ email: contact@axeheadwatch.com
 #  display: "(248) 555-0123" # Fax number as displayed
 #  mailto: "12485550213" # Fex number with country code for the link
 locations:
-  - name: "Lower Barriers"
-    street_address: "1428 Mark Ave"
+  - name: "Axe Head Watchmakers"
+    street_address: "123 Fake Street"
     locality: Lincoln Park
     region: MI
     postal_code: "48146"
@@ -92,7 +92,7 @@ html:
 
 ## Standard <meta> tags for SEO, etc.
 meta:
-  description: "finished-starter is the best free website on the market."
+  description: "Axe Head Watchmakers are your source for quality wooden timepieces."
   generator: "[Jekyll](https://github.com/mojombo/jekyll)"
   image:
     alt: "Site default social image" # It's okay for this to be an empty string if the image is decorative
@@ -124,7 +124,7 @@ twitter:
 ## @see https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest_webmanifest:
   background_color: "#fff"
-  theme_color: "#61009e"
+  theme_color: "#26331f"
 
 ## JAMstack form handler globals
 ## @see https://css-tricks.com/a-comparison-of-static-form-providers/
@@ -153,9 +153,7 @@ preload:
     - "pre-commit-dependency.css"
   woff:
     - "public_sans/public_sans_variable.woff2"
-    - "emberly/emberly-variable.woff2"
     - "public_sans/public_sans_variable_italic.woff2"
-    - "emberly/emberly-variable-italic.woff2"
 
 ## The 'THANKS' and 'SITE' sections of humans.txt
 ## @see http://humanstxt.org/
