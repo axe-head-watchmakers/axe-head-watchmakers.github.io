@@ -37,6 +37,8 @@ h1,
 h2,
 .font-family--secondary {
   font-family: var(--font-family--secondary);
+  letter-spacing: -0.075em;
+  text-transform: uppercase;
 }
 
 /**
@@ -376,7 +378,7 @@ figcaption {
  */
 h1,
 .heading--h1 {
-  font-size: 4.5em;
+  font-size: 4em;
   font-weight: 500;
   line-height: var(--line-height--heading);
   margin: 0;
@@ -401,7 +403,7 @@ h1 > a:visited {
  */
 h2,
 .heading--h2 {
-  font-size: 3.5em;
+  font-size: 3em;
   font-weight: 500;
   line-height: var(--line-height--heading);
   margin: 1.5em 0 0.25em;
