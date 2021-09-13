@@ -5,6 +5,9 @@ images:
   - path: '1200x630/banana-invert.jpg.webp'
     height: 630
     width: 1200
+  - path: '1200x630/woodward-social.jpg.webp'
+    height: 630
+    width: 1200
   - path: '1200x630/brad-czerniak.jpg.webp'
     height: 630
     width: 1200
@@ -15,6 +18,12 @@ images:
     height: 630
     width: 1200
   - path: '1200x630/brad-czerniak.jpg'
+    height: 630
+    width: 1200
+  - path: '1200x630/woodward-social.jpg'
+    height: 630
+    width: 1200
+  - path: '1200x630/laguna-social.jpg.webp'
     height: 630
     width: 1200
   - path: '1200x630/noaa-aySTZ82UGus-unsplash.jpg'
@@ -30,6 +39,9 @@ images:
     height: 630
     width: 1200
   - path: '1200x630/cytonn-photography-n95VMLxqM2I-unsplash.jpg'
+    height: 630
+    width: 1200
+  - path: '1200x630/laguna-social.jpg'
     height: 630
     width: 1200
   - path: '1200x630/noaa-aySTZ82UGus-unsplash.jpg.webp'
