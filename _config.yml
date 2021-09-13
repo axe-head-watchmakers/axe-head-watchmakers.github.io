@@ -45,44 +45,34 @@ email: contact@axeheadwatch.com
 #  mailto: "12485550213" # Fex number with country code for the link
 locations:
   - name: "Axe Head Watchmakers"
-    street_address: "123 Fake Street"
-    locality: Lincoln Park
+    street_address: "20900 Moxon Drive"
+    locality: Clinton Township
     region: MI
-    postal_code: "48146"
+    postal_code: "48036"
     country_name: USA
 phone:
-  display: "(313) 649-7359" # Phone number as displayed
-  mailto: "13136497359" # Phone number with country code for the link
+  display: "(313) 451-3557" # Phone number as displayed
+  mailto: "13134513557" # Phone number with country code for the link
 
 ## Social links
 ## Find icons in _includes/icons/[library]/[symbol].svg
 ## The _includes/icons/simple-icons library has all the social ones.
 social:
   - title: Facebook
-    url: https://www.facebook.com/lowerbarriers
+    url: https://www.facebook.com/axe-head-watchmakers
     icon:
       library: simple-icons
       symbol: facebook
-  - title: Twitter
-    url: https://twitter.com/lowerbarriers
-    icon:
-      library: simple-icons
-      symbol: twitter
-  - title: GitHub
-    url: https://github.com/lowerbarriers/finished-starter
-    icon:
-      library: simple-icons
-      symbol: github
 
 ## Press contact
 ## For small sites this is the same person and contact information as above. For companies... probably not.
 press:
-  name: "Brad Czerniak"
-  job_title: "Webmaster"
-  email: "helper@lowerbarriers.org"
+  name: "Mike Saliba"
+  job_title: "Press contact"
+  email: "press@axeheadwatch.com"
   phone:
-    display: "(313) 649-7359" # Phone number as displayed
-    mailto: "13136497359" # Phone number with country code for the link
+    display: "(313) 451-3557" # Phone number as displayed
+    mailto: "13134513557" # Phone number with country code for the link
 
 ## The <html> tag has language and language direction. We can make it configurable
 html:
@@ -111,14 +101,14 @@ open_graph:
 schema:
   type: "CreativeWork" # (default for site, often "CreativeWork")
   publisher:
-    type: "Person" # Whether a "Person" or "Organization" is the publisher of the site.
+    type: "Organization" # Whether a "Person" or "Organization" is the publisher of the site.
 
 ## Twitter cards
 ## @see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started
 twitter:
   card: "summary_large_image"
-  creator: "@lowerbarriers"
-  site: "@lowerbarriers"
+  creator: "@axeheadwatch"
+  site: "@axeheadwatch"
 
 ## PWA and other SEO
 ## @see https://developer.mozilla.org/en-US/docs/Web/Manifest
@@ -139,7 +129,7 @@ form_components:
 ## Comment out the below section if you don't have products, to prevent a small script from running on every page load.
 ## @see https://snipcart.com/
 snipcart:
-  api_key: "N2Q1OWZiOTMtODcyZi00OTUzLWFiYjAtNTAwMGYzZmE5YmI4NjM3MTk2NDYyNTQ4MTA5ODMx"
+  api_key: "MDQ2NzhkMjctNGVlMS00ZDg1LTk0NTItMDA2ODAzNGM5MDJiNjM3NjcxNTQ2MjA3OTU3Mzcx"
 
 ## Woff2 files declared as webfonts in your css, relative to /assets/fonts/
 ## Placing them here sets them to be preloaded in the head, which reduces request chaining for better performance.
@@ -147,7 +137,6 @@ snipcart:
 preload:
   image:
     - "in-css/hero-home.jpg.webp"
-    - "in-css/eric-prouzet-tD49mqo7sjE-unsplash.jpg.webp"
     - "required/s.gif.webp"
   style:
     - "pre-commit-dependency.css"
